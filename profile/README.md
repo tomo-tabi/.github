@@ -7,3 +7,4 @@
 - [ ] Show Trip history
 - [ ] Connect to payment apps
 - [ ] Invite friends to join your trip planning
+- [ ] bulletin board brainstorm
