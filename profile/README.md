@@ -6,5 +6,5 @@
 - [x] Expense Tracker
 - [x] Show Trip history
 - [x] Connect to payment apps
-- [ ] Invite friends to join your trip planning
-- [ ] bulletin board brainstorm
+- [x] Invite friends to join your trip planning
+- [x] bulletin board brainstorm
