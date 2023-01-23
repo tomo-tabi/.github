@@ -1,10 +1,8 @@
-# MVP
+# PART 2
 
-- [x] Plan trip visually
-- [x] Calendar view
-- [x] Timeline view
-- [x] Expense Tracker
-- [x] Show Trip history
-- [x] Connect to payment apps
-- [x] Invite friends to join your trip planning
-- [x] bulletin board brainstorm
+- [] Better user cues.
+- [] Attendance/Voting System.
+- [] Trip Management.
+- [] Compelling use case
+- [] Day View
+  - [] Descriptions
