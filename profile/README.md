@@ -1,8 +1,8 @@
 # PART 2
 
-- [ ] Better user cues.
-- [ ] Attendance/Voting System.
-- [ ] Trip Management.
+- [x] Better user cues.
+- [x] Attendance/Voting System.
+- [x] Trip Management.
 - [ ] Compelling use case
-- [ ] Day View
-  - [ ] Descriptions
+- [x] Day View
+  - [x] Descriptions
