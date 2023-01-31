@@ -1,8 +1,16 @@
 # PART 2
 
-- [x] Better user cues.
-- [x] Attendance/Voting System.
-- [x] Trip Management.
-- [ ] Compelling use case
-- [x] Day View
-  - [x] Descriptions
+- [x] User Profile
+- [ ] Deployment - 
+- [ ] Filtering 
+  - [ ] Timeline - Yoon Ju
+  - [ ] Trips 
+- [ ] Expenses - Pol
+- [ ] Permissions 
+
+- Bug Stomping - Yousef
+- Front end requests - Eric
+
+
+
+
