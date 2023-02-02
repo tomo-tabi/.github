@@ -10,7 +10,7 @@
   - [x] Backend - Matthew
   - [ ] Frontend
     - [ ] lock and unlock button - Yousef
-    - [ ] don't show locked routes - Pol 
+    - [x] don't show locked routes - Pol 
 
 - Bug Stomping - Yousef
 - Front end requests - Eric
