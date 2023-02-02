@@ -2,14 +2,14 @@
 
 - [x] User Profile - Pol
 - [x] Deployment - Matthew
-- [ ] Filtering 
-  - [ ] Timeline - Yoon Ju - waiting for backend route
+- [x] Filtering 
+  - [x] Timeline - Yoon Ju - waiting for backend route
   - [x] Trips - Yoonju
 - [x] Expenses - Pol
-- [ ] Permissions - Matthew
+- [x] Permissions - Matthew
   - [x] Backend - Matthew
-  - [ ] Frontend
-    - [ ] lock and unlock button - Yousef
+  - [x] Frontend
+    - [x] lock and unlock button - Yousef
     - [x] don't show locked routes - Pol 
 
 - Bug Stomping - Yousef
