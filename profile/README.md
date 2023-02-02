@@ -9,8 +9,8 @@
 - [ ] Permissions - Matthew
   - [x] Backend - Matthew
   - [ ] Frontend
-    - [ ] lock and unlock button
-    - [ ] gray out locked routes 
+    - [ ] lock and unlock button - Yousef
+    - [ ] don't show locked routes - Pol 
 
 - Bug Stomping - Yousef
 - Front end requests - Eric
