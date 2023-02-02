@@ -1,12 +1,16 @@
-# PART 2
+# PART 3
 
-- [x] User Profile
-- [ ] Deployment - 
+- [x] User Profile - Pol
+- [x] Deployment - Matthew
 - [ ] Filtering 
-  - [ ] Timeline - Yoon Ju
-  - [ ] Trips 
-- [ ] Expenses - Pol
-- [ ] Permissions 
+  - [ ] Timeline - Yoon Ju - waiting for backend route
+  - [x] Trips - Yoonju
+- [x] Expenses - Pol
+- [ ] Permissions - Matthew
+  - [x] Backend - Matthew
+  - [ ] Frontend
+    - [ ] lock and unlock button
+    - [ ] gray out locked routes 
 
 - Bug Stomping - Yousef
 - Front end requests - Eric
