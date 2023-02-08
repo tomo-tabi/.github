@@ -1,1 +1,1 @@
-[![Watch the video]](https://user-images.githubusercontent.com/5964494/217531816-0b3a74f2-9c4f-4681-8f68-d6b8ff491dca.mp4)
+https://user-images.githubusercontent.com/5964494/217533216-0a637986-68d0-4a1a-a0d3-9d498755dc7a.mp4
